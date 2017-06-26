@@ -1,0 +1,71 @@
+:root
+{
+	--bgcolor: #002255;
+	--boxcolor: #bbbbbb;
+}
+
+body 
+{
+	background-color: var(--bgcolor);
+	margin: 0;
+}
+
+#heading
+{
+	background-color: var(--boxcolor);
+	width=100%;
+	overflow: auto;
+}
+
+#topPictureDiv
+{
+	float: right;
+}
+
+#topTextDiv
+{
+	float: left;
+	width: 60%;
+	font-family: sans-serif;
+}
+
+div.section
+{
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color:var(--boxcolor);
+	width:90%;
+	padding-left: 1%;
+	padding-right: 1%;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+}
+
+h1.resume
+{
+	color: 505055;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+h2.resume
+{
+	
+}
+
+h3.resume
+{
+	float: right;
+}
+
+p.resume-right
+{
+	float:right;
+}
+
+div.float-holder
+{
+	clear:both;
+}

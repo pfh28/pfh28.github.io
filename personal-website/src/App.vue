@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col items-center">
     <div class="pb-4">
-      <img class="drop-shadow-lg rounded-lg h-4/5 max-h-[80vh]" :src="require('./assets/sq_portrait.JPG')" />
+      <img class="drop-shadow-lg rounded-lg h-4/5 max-h-[80vh]" src="./assets/portrait-sq.png" />
     </div>
     <div class="text-4xl font-script">Christine and Patrick</div>
     <div class="text-md font-serif">will be married on</div>

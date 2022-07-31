@@ -28,6 +28,11 @@ body
 	font-family: sans-serif;
 }
 
+img.social-icon
+{
+	margin: 2%
+}
+
 div.section
 {
 	margin: auto;
